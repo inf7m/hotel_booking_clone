@@ -1,0 +1,8 @@
+mongo:
+  host: "cluster0.qsa9hsq.mongodb.net"         # MongoDB host (e.g., localhost or remote server address)
+  port: 27017              # MongoDB port (default is 27017)
+  username: ingestion  # Your MongoDB username
+  password: Fin71510  # Your MongoDB password
+  database: "hotel_info"    # The name of your MongoDB database
+  authSource: "admin"       # Optional: If you're using authentication, specify the auth source (default is 'admin')
+  useUnifiedTopology: true  # Optional: For newer versions of MongoDB, use unified topology (recommended)

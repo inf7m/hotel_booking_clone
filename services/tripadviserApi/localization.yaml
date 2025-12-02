@@ -1,0 +1,136 @@
+languages:
+  - name: Arabic
+    code: ar
+    country: Egypt
+  - name: Chinese - International
+    code: zh
+    country: China
+  - name: Chinese - Traditional
+    code: zh_TW
+    country: Taiwan
+  - name: Danish
+    code: da
+    country: Denmark
+  - name: Dutch
+    code: nl
+    country: Netherlands
+  - name: English
+    code: en_AU
+    country: Australia
+  - name: English
+    code: en_CA
+    country: Canada
+  - name: English
+    code: en_HK
+    country: Hong Kong
+  - name: English
+    code: en_IN
+    country: India
+  - name: English
+    code: en_IE
+    country: Ireland
+  - name: English
+    code: en_MY
+    country: Malaysia
+  - name: English
+    code: en_NZ
+    country: New Zealand
+  - name: English
+    code: en_PH
+    country: Philippines
+  - name: English
+    code: en_SG
+    country: Singapore
+  - name: English
+    code: en_ZA
+    country: South Africa
+  - name: English
+    code: en_UK
+    country: United Kingdom
+  - name: English
+    code: en
+    country: United States
+  - name: French
+    code: fr
+    country: France
+  - name: French (Belgium)
+    code: fr_BE
+    country: Belgium
+  - name: French (Canada)
+    code: fr_CA
+    country: Canada
+  - name: French (Switzerland)
+    code: fr_CH
+    country: Switzerland
+  - name: German
+    code: de_AT
+    country: Austria
+  - name: German
+    code: de
+    country: Germany
+  - name: Greek
+    code: el
+    country: Greece
+  - name: Hebrew
+    code: iw
+    country: Israel
+  - name: Indonesian
+    code: in
+    country: Indonesia
+  - name: Italian
+    code: it
+    country: Italy
+  - name: Italian (Switzerland)
+    code: it_CH
+    country: Switzerland
+  - name: Japanese
+    code: ja
+    country: Japan
+  - name: Korean
+    code: ko
+    country: Korea
+  - name: Norwegian
+    code: no
+    country: Norway
+  - name: Portuguese
+    code: pt_PT
+    country: Portugal
+  - name: Portuguese
+    code: pt
+    country: Brazil
+  - name: Russian
+    code: ru
+    country: Russia
+  - name: Spanish
+    code: es_AR
+    country: Argentina
+  - name: Spanish
+    code: es_CO
+    country: Columbia
+  - name: Spanish
+    code: es_MX
+    country: Mexico
+  - name: Spanish
+    code: es_PE
+    country: Peru
+  - name: Spanish
+    code: es
+    country: Spain
+  - name: Spanish
+    code: es_VE
+    country: Venezuela
+  - name: Spanish
+    code: es_CL
+    country: Chile
+  - name: Swedish
+    code: sv
+    country: Sweden
+  - name: Thai
+    code: th
+    country: Thailand
+  - name: Turkish
+    code: tr
+    country: Turkey
+  - name: Vietnamese
+    code: vi
+    country: Vietnam
