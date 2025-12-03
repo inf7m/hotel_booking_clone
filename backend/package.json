@@ -23,7 +23,8 @@
     "mongoose": "^8.20.0",
     "multer": "^2.0.2",
     "tod0x": "file:..",
-    "todox": "file:.."
+    "todox": "file:..",
+    "geolib": "^3.3.4"
   },
   "devDependencies": {
     "nodemon": "^3.1.11"

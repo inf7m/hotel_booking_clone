@@ -5,7 +5,7 @@ const { checkApiConnection } = require('./checkingAPIService.js');
 const {settingUpTheConnection} = require("./ingestToMongoDB/mongodbUtils");  // Import the checkApiConnection function
 console.log(checkApiConnection)
 
-function flattenJSON(json, parentKey = '', result = {}) {
+function flattenJSON(json, parentKey = '', result = {}) {// not using yet
     for (let key in json) {
         if (!json.hasOwnProperty(key)) continue;
 
@@ -47,4 +47,4 @@ async function fetchData() { // Appending
     // Wait until ALL fetches finish
     await Promise.all(promises);
     await connect.close();
-} TripAdvisor
+}
